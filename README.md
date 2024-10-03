@@ -82,7 +82,8 @@ An online food ordering platform with **Google Maps integration**, **Stripe Paym
 
 ## 📈 **GitHub Stats**
 
-![Md. Shajalal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shah-jalal1&show_icons=true&count_private=true&theme=radical)
+![Md. Shajalal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalal-zaag&show_icons=true&count_private=true&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalal-zaag&layout=compact&theme=radical)
 
