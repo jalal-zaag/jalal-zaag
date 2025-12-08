@@ -1,5 +1,5 @@
 <h1 align="center">Md. Shajalal</h1>
-<p align="center"><strong>Software Engineer • Frontend / Full-Stack Developer</strong></p>
+<p align="center"><strong>Software Engineer • Frontend</strong></p>
 
 <p align="center">
   <a href="mailto:jalal.seu.cse@gmail.com">✉️ jalal.seu.cse@gmail.com</a> &nbsp;•&nbsp;
